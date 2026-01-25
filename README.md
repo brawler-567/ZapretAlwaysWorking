@@ -1,5 +1,6 @@
  # ZapretAlwaysWorking
 гайд как сделать, чтобы запрет работал всегда
+(если помог, поставь star на репозиторий)
 1. скачиваем версию запрета 1.9.0b
 https://github.com/Flowseal/zapret-discord-youtube/releases/tag/1.9.0b
 
