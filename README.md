@@ -8,6 +8,7 @@ https://github.com/Flowseal/zapret-discord-youtube/releases/tag/1.9.0b
 https://cdn.discordapp.com/attachments/1373623530360410233/1455251470134804652/image.png?ex=6976530b&is=6975018b&hm=430c74a4f8ae16b61dfb71801bc5f56d3d7b5c97b7238040c21f32d9addc9174&
 
 3. открываете диспетчер задачь, вкладка расширенное, ищите процесс winws.exe и завершить задачу
+
 !ни в коем случае не отключайте сервис через Remove Service
 
 4.нажимаете Install Service, и нажимаете 10(alt 9), он работает очень большое количество времени, если же он у вас не заработает попробуйте эти фиксы: alt, alt10, alt5, alt9, fake 3, simple fake
