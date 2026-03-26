@@ -2,6 +2,8 @@
 гайд как сделать, чтобы запрет работал всегда
 (если помог, поставь star на репозиторий)
 
+— ОБНОВЛЁННЫЙ МЕТОД —
+
 1.скачиваем zapret 1.9.7b
 https://github.com/Flowseal/zapret-discord-youtube/releases/tag/1.9.7b
 
@@ -22,7 +24,7 @@ https://github.com/Flowseal/zapret-discord-youtube/releases/tag/1.9.7b
 
 
 
-старый способ на 1.9.0b:
+— СТАРЫЙ МЕТОД НА 1.9.0b —
 
 1. скачиваем версию запрета 1.9.0b
 https://github.com/Flowseal/zapret-discord-youtube/releases/tag/1.9.0b и разорхивируем в папку, называть без русских букв
