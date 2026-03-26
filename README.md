@@ -4,8 +4,9 @@
 1. скачиваем версию запрета 1.9.0b
 https://github.com/Flowseal/zapret-discord-youtube/releases/tag/1.9.0b
 
-2.открываем service и делаем как на скрине:
-https://cdn.discordapp.com/attachments/1373623530360410233/1455251470134804652/image.png?ex=6976530b&is=6975018b&hm=430c74a4f8ae16b61dfb71801bc5f56d3d7b5c97b7238040c21f32d9addc9174&
+2.открываем service и делаем так:
+game filter: enabled
+ipset filter : any
 
 3. открываете диспетчер задачь, вкладка расширенное, ищите процесс winws.exe и завершить задачу
 
