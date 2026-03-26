@@ -13,7 +13,7 @@ https://github.com/Flowseal/zapret-discord-youtube/releases/tag/1.9.7b
 
 3.1 открываем service.bat, нажимаем на 4-1-enter, нажимаем на 5-enter, на притов game filter должно быть TCP и UPD, на против ipset filter должно быть any
 
-4.далее нажимаете на 11-1-1(run test-defaoult ping-all configs)
+4.далее нажимаете на 11-1-1(run test-default ping-all configs)
 
 5.ждёте пока все фиксы проверятся и почти в самом низу после завершения проверки будет написан лучший фикс который работает лучше всего для вас, запомните его название
 
