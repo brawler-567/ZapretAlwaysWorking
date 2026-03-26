@@ -1,8 +1,31 @@
  # ZapretAlwaysWorking
 гайд как сделать, чтобы запрет работал всегда
 (если помог, поставь star на репозиторий)
+
+1.скачиваем zapret 1.9.7b
+https://github.com/Flowseal/zapret-discord-youtube/releases/tag/1.9.7b
+
+2. разорхивируем в папку без русских букв
+
+3. если у вас уже установлен фикс, то в service.bat нажимаете на 2(remove service)
+
+3.1 открываем service.bat, нажимаем на 4-1-enter, нажимаем на 5-enter, на притов game filter должно быть TCP и UPD, на против ipset filter должно быть any
+
+4.далее нажимаете на 11-1-1(run test-defaoult ping-all configs)
+
+5.ждёте пока все фиксы проверятся и почти в самом низу после завершения проверки будет написан лучший фикс который работает лучше всего для вас, запомните его название
+
+6. обратно переходите в service, нажимаете 1(install service) и ставите тот фикс, который вы получили в результате теста)
+
+7. на этом всё, если помог - поставьте star на репозиторий
+
+
+
+
+старый способ на 1.9.0b:
+
 1. скачиваем версию запрета 1.9.0b
-https://github.com/Flowseal/zapret-discord-youtube/releases/tag/1.9.0b
+https://github.com/Flowseal/zapret-discord-youtube/releases/tag/1.9.0b и разорхивируем в папку, называть без русских букв
 
 2.открываем service и делаем так:
 game filter: enabled
